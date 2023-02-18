@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cliperact-project/static/css/main.56362f74.css",
+    "main.js": "/cliperact-project/static/js/main.36ef4911.js",
+    "index.html": "/cliperact-project/index.html",
+    "main.56362f74.css.map": "/cliperact-project/static/css/main.56362f74.css.map",
+    "main.36ef4911.js.map": "/cliperact-project/static/js/main.36ef4911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56362f74.css",
+    "static/js/main.36ef4911.js"
+  ]
+}
